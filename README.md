@@ -1,9 +1,6 @@
 ### Me in 5 seconds
 I am a technical and delivery focused Engineering leader with a range of experience in architecture, integration, testing and project management. Myers-Brigs said I am an INTP, so I am a logician.
 
-### Me in 5 seconds
-I am a technical and delivery focused Engineering leader with a range of experience in architecture, integration, testing and project management. Myers-Brigs said I am an INTP, so I am a logician.
-
 ### What I'm doing now
 #### My work
 Work at American Express as VP Engineer on the Loyalty Platform. Working with a very large team (for me) across all the Loyalty applications. Including 15 year old mainframe to new cloud based in memory compute platforms. 
