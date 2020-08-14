@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Me in 5 seconds
+# Me in 5 seconds
 I am a technical and delivery focused Engineering leader with a range of experience in architecture, integration, testing and project management. Myers-Brigs said I am an INTP, so I am a logician.
 
 
