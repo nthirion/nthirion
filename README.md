@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Me in 5 seconds
+I am a technical and delivery focused Engineering leader with a range of experience in architecture, integration, testing and project management. Myers-Brigs said I am an INTP, so I am a logician.
+
+
+
 <!--
 **nthirion/nthirion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
